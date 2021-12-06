@@ -44,10 +44,10 @@
 <h2 align="center" font-style="bold">My major team projects:</h2>
 
 <ul>
-<li> Project 1: <a href="https://github.com/ArnaudBGN/Project-1">Supernatural bug killing enterprise website</a> built in 2 weeks 💪 </li>
-<li> Project 2: <a href="https://github.com/ArnaudBGN/paris-0921-p2-groupe1">Quest Game</a> built in 1 month 💪 </li>
-<li> Hackathon 1: <a href="https://github.com/ArnaudBGN/Piano_Piano_hackathon_paris_1121">Piano lessons for children</a> built in 24 hours 💪 </li>
-  <p>direct link to website => <a href="https://adecisy.github.io/Piano-Piano/">Piano-Piano</a></p>
+<li> Project 1: <a href="https://github.com/ArnaudBGN/Project-1" target="_blank">Supernatural bug killing enterprise website</a> built in 2 weeks 💪 </li>
+<li> Project 2: <a href="https://github.com/ArnaudBGN/paris-0921-p2-groupe1" target="_blank">Quest Game</a> built in 1 month 💪 </li>
+<li> Hackathon 1: <a href="https://github.com/ArnaudBGN/Piano_Piano_hackathon_paris_1121" target="_blank">Piano lessons for children</a> built in 24 hours 💪 </li>
+  <p>direct link to website => <a href="https://adecisy.github.io/Piano-Piano/" target="_blank">Piano-Piano</a></p>
 </ul>
 
 <h2 align="center" font-style="bold">How to reach me:</h2>
