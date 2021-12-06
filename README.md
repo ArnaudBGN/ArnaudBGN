@@ -56,5 +56,15 @@
 <a href="mailto:arnaudbegin.ab@gmail.com" target="_blank"><img alt="g-mail address" src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
 </div>
 
+<h2 align="center">My github Stats</h2>
+
+<div align="center">
+  
+ [![Arnaud's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArnaudBGN&show_icons=true&theme=dracula)](https://github.com/ArnaudBGN/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArnaudBGN&layout=compact&theme=dracula)](https://github.com/ArnaudBGN/github-readme-stats)
+  
+ </div>
+ 
+
 
 
