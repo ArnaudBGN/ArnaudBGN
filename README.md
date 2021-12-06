@@ -1,7 +1,7 @@
 ### Hello there 👋! 
 I am Arnaud alias ArnaudBGN.
 
-![Cover](https://github.com/ArnaudBGN/ArnaudBGN/master/img-github/giphy.gif)
+![Cover](https://github.com/ArnaudBGN/ArnaudBGN/blob/main/Img-github/giphy.gif)
 <!--
 **ArnaudBGN/ArnaudBGN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
